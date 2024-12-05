@@ -11,5 +11,7 @@ public class Main {
 
         Student student=new Student();
         student.sayHello();
+
+        System.out.println("Hello Ashoka");
     }
 }
